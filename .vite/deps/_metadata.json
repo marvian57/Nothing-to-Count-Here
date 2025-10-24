@@ -1,0 +1,31 @@
+{
+  "hash": "ac3ec9c4",
+  "configHash": "f46ebab3",
+  "lockfileHash": "fe3aa994",
+  "browserHash": "27d9021a",
+  "optimized": {
+    "@radix-ui/react-icons": {
+      "src": "../../node_modules/@radix-ui/react-icons/dist/react-icons.esm.js",
+      "file": "@radix-ui_react-icons.js",
+      "fileHash": "43f7347c",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "6f2c36a4",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "8a63110b",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-OBOR3357": {
+      "file": "chunk-OBOR3357.js"
+    }
+  }
+}

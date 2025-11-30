@@ -1,3 +1,15 @@
+# Simple Counting App
+
+As of 1st December 2025 this app is not finished.
+It currently works as a normal counter with a limit of 4, being locked once reaching the limit - can reset at that point.
+In scope to make it a minigame.
+
+## Default counter
+<img width="665" height="727" alt="image" src="https://github.com/user-attachments/assets/86241a3b-1018-419f-af45-13836e01f680" />
+
+## Limit reached
+<img width="678" height="704" alt="image" src="https://github.com/user-attachments/assets/49ead5a4-a55e-46a2-a0a2-a850522bd6cc" />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
